@@ -12,6 +12,7 @@
             <th>Nama</th>
             <th>Alamat</th>
             <th>Pekerjaan</th>
+            <th>Foto</th>
             <th>Action</th>
         </tr>
         <?php
